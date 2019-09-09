@@ -18,6 +18,12 @@ namespace eva_server
                     UrlRegex = "^\\/get_word_data",
                     Method = "GET"
                 },
+                new Route
+                {
+                    Callable = SignInResponse.Response,
+                    UrlRegex = "^\\/sign_in",
+                    Method = "GET"
+                },
             };
 
         public static void Main(string[] args)
