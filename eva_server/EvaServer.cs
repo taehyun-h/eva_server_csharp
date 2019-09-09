@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Threading;
 using SimpleHttpServer;
 using SimpleHttpServer.Models;
 
 namespace eva_server
 {
-    static class EvaServer
+    public static class EvaServer
     {
         private static List<Route> Get =>
             new List<Route>
@@ -19,7 +20,7 @@ namespace eva_server
                 },
             };
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Run Server");
 
@@ -27,5 +28,35 @@ namespace eva_server
             var thread = new Thread(httpServer.Listen);
             thread.Start();
         }
+
+        #region Server Data
+
+        private const string ProtocolUserPath = "../../../../Data/User/ProtocolUser.json";
+
+        private static ProtocolUser _protocolUser;
+
+        public static ProtocolUser GetProtocolUser()
+        {
+            if (_protocolUser == null)
+            {
+                var text = File.ReadAllText(ProtocolUserPath);
+                _protocolUser = JsonUtil.DeserializeObject<ProtocolUser>(text);
+            }
+
+            return _protocolUser;
+        }
+
+        public static string GetProtocolUserString()
+        {
+            return JsonUtil.SerializeObjectWithIndentation(_protocolUser);
+        }
+
+        public static void SaveProtocolUser()
+        {
+            var text = GetProtocolUserString();
+            FileUtil.WriteText(ProtocolUserPath, text);
+        }
+
+        #endregion
     }
 }
