@@ -24,6 +24,24 @@ namespace eva_server
                     UrlRegex = "^\\/sign_in",
                     Method = "GET"
                 },
+                new Route
+                {
+                    Callable = StudyWordResponse.Response,
+                    UrlRegex = "^\\/study_word",
+                    Method = "GET"
+                },
+                new Route
+                {
+                    Callable = TestWordIKnowResponse.Response,
+                    UrlRegex = "^\\/test_word_i_know",
+                    Method = "GET"
+                },
+                new Route
+                {
+                    Callable = TestWordIDontKnowResponse.Response,
+                    UrlRegex = "^\\/test_word_i_dont_know",
+                    Method = "GET"
+                },
             };
 
         public static void Main(string[] args)
