@@ -55,7 +55,7 @@ namespace eva_server
 
         #region Server Data
 
-        private const string ProtocolUserPath = "../../../../Data/User/ProtocolUser.json";
+        private const string ProtocolUserPath = "Data/User/ProtocolUser.json";
 
         private static ProtocolUser _protocolUser;
 
