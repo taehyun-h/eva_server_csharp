@@ -4,7 +4,7 @@ namespace eva_server
     {
         public const int NewStudyWordCount = 30;
         public static readonly int[] StudyPeriodDate = {0, 2, 3, 5};
-        public static readonly int[] TestPeriodDate = {5, 10, 20};
+        public static readonly int[] TestPeriodDate = {5, 10, 20, 15, 30, 30, 30};
 
         public bool ShouldStudyNewWord(int date)
         {
