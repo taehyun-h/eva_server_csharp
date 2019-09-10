@@ -15,6 +15,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return false;
             }
         }
@@ -32,6 +33,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return null;
             }
         }
@@ -51,6 +53,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return false;
             }
         }
@@ -65,6 +68,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return false;
             }
         }
@@ -77,6 +81,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return null;
             }
         }
@@ -89,6 +94,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return string.Empty;
             }
         }
@@ -102,6 +108,7 @@ namespace eva_server
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
             }
         }
 
@@ -115,6 +122,7 @@ namespace eva_server
                 }
                 catch (Exception e)
                 {
+                    Console.WriteLine(e);
                 }
             }
         }

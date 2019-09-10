@@ -55,6 +55,7 @@ namespace SimpleHttpServer
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return HttpDefaultBuilder.InternalServerError();
             }
         }
