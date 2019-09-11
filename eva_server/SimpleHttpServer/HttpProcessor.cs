@@ -23,15 +23,22 @@ namespace SimpleHttpServer
         public void HandleClient(TcpClient tcpClient)
         {
             var inputStream = tcpClient.GetStream();
-            var request = GetRequest(inputStream);
+            try
+            {
+                var request = GetRequest(inputStream);
+                var response = RouteRequest(request);
+                Console.WriteLine("{0} {1} {2}", DateTime.Now, response.StatusCode, request.Url);
 
-            var response = RouteRequest(request);
-            Console.WriteLine("{0} {1} {2}", DateTime.Now, response.StatusCode, request.Url);
+                var outputStream = tcpClient.GetStream();
+                SendResponse(outputStream, response);
+                outputStream.Flush();
+                outputStream.Close();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("{0} {1}", DateTime.Now, e);
+            }
 
-            var outputStream = tcpClient.GetStream();
-            SendResponse(outputStream, response);
-            outputStream.Flush();
-            outputStream.Close();
             inputStream.Close();
         }
 
@@ -151,7 +158,7 @@ namespace SimpleHttpServer
 
             stream.Write(response.Content, 0, response.Content.Length);
         }
-        
+
         #region Stream Util
 
         private static string Readline(Stream stream)
@@ -189,7 +196,7 @@ namespace SimpleHttpServer
             var bytes = Encoding.UTF8.GetBytes(text);
             stream.Write(bytes, 0, bytes.Length);
         }
-        
+
         #endregion
     }
 }
