@@ -492,3 +492,49 @@ mutual : (둘 이상 사람들) 공통의
 correspond : ~에 상응하다
 descending
 ascending
+tame : 길들이다
+fall into something : ~으로 나뉘다
+intermediary : 중재자
+prone : (좋지 않은 일을) 하기[당하기] 쉬운
+facilitator : (지시하는 사람이 아닌) 조력자
+sue : 고소하다
+erroneous : 잘못된 (정보에 의한)
+malicious : 악의적인
+terminology
+collective : 집단의
+stand for something : (약어나 상징물이) ~을 나타내다[의미하다]
+undergo : (특히 변화·안 좋은 일 등을) 겪다[받다]
+courtesy : 공손함
+canonical : (수학에서) 표준[기준]이 되는
+look for something : ~을 바라다
+come across : ~을 우연히 발견하다
+capable of : ~을 할 수 있는
+thorough : 철저한
+CC : carbon copy(참조)
+disincentive : 의욕을 꺽는 것
+tricky : (하기·다루기) 힘든[까다로운], 곤란한
+consistent : 일관성 있는
+polish : (좋아지도록) 다듬다
+nitpick : 자잘한 일에까지 간섭하다
+justify : 정당화시키다[하다]
+keep in mind : 명심해
+purely
+resolve : (문제 등을) 해결하다
+overrule: 기각하다
+dictate : ~에 영향을 주다
+VC : Video Call
+escalate : 확대시키다
+sit around : 빈둥거리며 세월을 보내다
+take into account : ~을 고려하다
+introduce : (새로운 것을) 시작하다
+vigilant : 바짝 경계하는
+sensible : 합리적인
+scrutiny : 철저한 검토
+judgment call : 개인적 의견
+scan over : 훑어보다
+internationalization : 국제화
+address : (문제·상황 등에 대해) 고심하다[다루다]
+conform : (규칙·법 등에) 따르다[맞다]
+compliment somebody on something : ~에게 ~에 대해 칭찬하다
+courteously : 공손하게
+drastically : 과감하게
