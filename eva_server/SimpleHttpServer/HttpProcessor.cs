@@ -26,7 +26,7 @@ namespace SimpleHttpServer
             var request = GetRequest(inputStream);
 
             var response = RouteRequest(request);
-            Console.WriteLine("{0} {1}", response.StatusCode, request.Url);
+            Console.WriteLine("{0} {1} {2}", DateTime.Now, response.StatusCode, request.Url);
 
             var outputStream = tcpClient.GetStream();
             SendResponse(outputStream, response);
