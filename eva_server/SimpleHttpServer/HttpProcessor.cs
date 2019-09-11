@@ -62,7 +62,7 @@ namespace SimpleHttpServer
 
         private HttpRequest GetRequest(Stream inputStream)
         {
-            var (method, url) = ParseRequestFirstList(inputStream);
+            var (method, url) = ParseRequestFirstLine(inputStream);
             var headers = ParseRequestHeader(inputStream);
             var content = GetContent(inputStream, headers);
             return new HttpRequest
@@ -74,7 +74,7 @@ namespace SimpleHttpServer
             };
         }
 
-        private (string, string) ParseRequestFirstList(Stream inputStream)
+        private (string, string) ParseRequestFirstLine(Stream inputStream)
         {
             var firstLine = Readline(inputStream);
             var tokens = firstLine.Split(' ');
