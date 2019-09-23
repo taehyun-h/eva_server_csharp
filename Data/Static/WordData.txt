@@ -394,7 +394,6 @@ prerequisite
 familiarity : 익숙함
 plagiarism : 표절
 ethics : 윤리
-as long as : ~하는 한
 fast-paced
 commitment : (돈, 시간, 인력의) 투입
 grant : (정부나 단체에서 주는) 보조금 : (특히 공식적, 법적으로) 승인하다
@@ -489,7 +488,6 @@ pledge : (정식으로) 약속[맹세]하다
 oath : 맹세
 nature : 종류
 mutual : (둘 이상 사람들) 공통의
-correspond : ~에 상응하다
 descending
 ascending
 tame : 길들이다
@@ -538,3 +536,132 @@ conform : (규칙·법 등에) 따르다[맞다]
 compliment somebody on something : ~에게 ~에 대해 칭찬하다
 courteously : 공손하게
 drastically : 과감하게
+partition : 나누다
+identity : 독자성
+elapse : (시간이) 흐르다[지나다]
+respect : (법률원칙 등을) 준수하다
+deal with : (문제, 과제 등을) 처리하다
+predicate : (특정 신조, 생각, 원칙에 …의) 근거를 두다
+lineage : 혈통
+consecutive : 연이은
+sufficiently : 충분히
+convergence : 수렴
+bundle : (소프트웨어 등을) 추가로 주다
+particular : (명사 앞에만 씀) 특정한
+bank balance : 은행 잔고
+primitives : 기초 요소
+dominant : 우세한
+reasoning : 추론
+product : 곱
+capital : 대문자
+proportion : 비율
+sparse : (흔히 넓은 지역에 분포된 정도가) 드문
+matrices : matrix의 복수
+synopsis : (글·희곡 등의) 개요
+substitute : 대신하다
+neglect : 도외시하다
+prime divisor : 소인수
+protest : (특히 공개적으로) 항의하다
+complaint : 불평
+trump : 으뜸패를 내다
+ease : (고통, 불편 등이) 덜해지다
+specify : (구체적으로) 명시하다
+improve : 개선하다
+compromise : (원칙 등을) 굽히다
+intuitively : 직관적으로
+disease : 질병
+formalize : 공식화하다
+variant : 변종
+thrash : 허우적거리다
+lexicographic order : 사전식 순서
+monotonicity : 단조성
+throughout : ~동안
+for the moment : 잠깐 동안은
+expense : 비용
+amplify : 증폭시키다
+sparsity : 희박
+evidently : 확실히
+prune : (불필요한 부분을) 가지치기하다
+majority : (특정 집단 내에서) 다수
+subtlety : 미묘함
+consequently : 따라서
+successive : 연속적인
+if and only if : 필요충분조건
+retain : 유지하다
+rationale : (특정한 결정, 행동 방침, 신조 등의) 이유
+lend : (도움, 지지 등을) 주다
+regime : 제도
+strain : 부담
+contradiction : 모순
+at hand : 즉시 쓸 수 있도록
+adequate : 충분한
+decay : 쇠퇴하다
+constrain : ~하게 만들다
+uncharted : 미지의
+ingredient : (요리 등의) 재료
+criteria : criterion의 복수형
+at most : 많아 봐야
+quintuple : 다섯 부분으로 된
+transaction : 처리 (과정)
+defer : 미루다
+preempt : <공유지를> 선매권을 얻기 위해 점유하다
+cast for : (~에게) 표를 던지다
+primarily : 주로
+skim : (필요한 부분을 찾거나 요점을 알기 위해) 훑어보다
+virtually : 사실상
+comprise : ~으로 구성되다
+leverage : 영향력
+intensive : 집중적인
+incur : (비용을) 발생시키다
+interleave : 끼우다
+the advent of ~ : ~의 출현
+manipulate : (사물을 능숙하게) 처리하다
+accommodate : (환경 등에) 맞추다
+inherently : 본질적으로
+exclusive : 독점적인
+drawback : 문제점
+burden : 부담을 지우다
+equivalent : 동등한
+remainder : 나머지
+specification : 설명서, 사양
+enclose : 둘러싸다
+loom : 어렴풋이 보이다
+on the horizon : 곧 일어날 듯한
+undertake : (책임을 맡아서) 착수하다
+superior : (~보다 더) 우수한
+troublesome : (오랫동안) 골칫거리인
+exhaust : 고갈시키다
+directive : (공식적인) 명령
+and so forth : ~ 등등
+semantics : 의미
+yield : 양도하다
+inadequate : 부적당한
+convoy : (특히 군인이나 다른 차량의) 수송대
+implication : (행동·결정이 초래할 수 있는) 영향[결과]
+affinity : 관련성
+consequence : (발생한 일의) 결과
+crude : 대충의
+incidentally : 그런데
+auxiliary : 보조[예비]의
+contiguous : 인접한
+preliminary : 예비의
+contrariwise : 반대로
+symptom : 증상
+lower : 낮추다
+scuba : 스쿠버
+embody : (사상·특질을) 상징[구현]하다 : 포함하다
+notation : 표기법
+juxtapose : 나란히 놓다
+whereby : (그것에 의하여) ~하는
+unary : 단항 (수학)
+precedence : 우선[함]
+derivation : (단어의) 어원
+conformance : 일치, 부합
+analogy : 유추
+propagate : (사상·신조·정보를) 전파하다
+intervene : (상황 개선을 돕기 위해) 개입하다 : (방해가 되는 일이) 생기다[일어나다]
+while : [문장 맨 첫 부분에 쓰여] ~이긴 하지만, ~에도 불구하고
+precise : 정확한
+fringe : 주변부[변두리]
+tempt : (좋지 않은 일을 하도록) 유혹하다
+aid : (특히 일이 수월해지도록) 돕다
