@@ -665,3 +665,21 @@ precise : 정확한
 fringe : 주변부[변두리]
 tempt : (좋지 않은 일을 하도록) 유혹하다
 aid : (특히 일이 수월해지도록) 돕다
+diarrhea : 설사
+sanitation : 위생 시설[관리]
+chew : (무엇을 계속) 물어뜯다[깨물다]
+fierce : 사나운
+ashamed : 부끄러운
+disobey : 반항하다
+well-off : 부유한
+mature : 다 자라다
+corpus : 말뭉치
+rate : 평가하다
+differentiate : 구별하다
+a good rule of thumb : 경험에서 나온 좋은 법칙
+prose : 산문체
+remarkable : 주목할 만한
+steep : 가파른
+colocate : 같은 장소에 배치하다
+assert : (사실임을 강하게) 주장하다
+judicious : 신중한
