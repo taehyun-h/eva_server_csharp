@@ -47,10 +47,6 @@ namespace eva_server
                 protocolUser.TodayTestWordsIndex = 0;
                 protocolUser.TodayTestWords.Remove(protocolUser.TodayStudyDate);
             }
-            else
-            {
-                protocolUser.TodayTestWordsIndex %= protocolUser.TodayStudyDate;
-            }
         }
     }
 }
