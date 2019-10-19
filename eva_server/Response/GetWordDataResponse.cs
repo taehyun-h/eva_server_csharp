@@ -12,7 +12,7 @@ namespace eva_server
             {
                 StatusCode = HttpStatusCode.OK,
                 Reason = "OK",
-                ContentUTF8 = File.ReadAllText("Data/Static/WordData.txt"),
+                ContentUTF8 = File.ReadAllText(EvaServer.WordDataPath),
             };
         }
     }

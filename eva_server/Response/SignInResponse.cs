@@ -59,6 +59,8 @@ namespace eva_server
             for (var i = 0; i < StaticData.NewStudyWordCount; i++)
             {
                 var id = protocolUser.LastStudiedWordId + 1;
+                if (id >= EvaServer.WordDataCount) break;
+
                 protocolUser.LastStudiedWordId++;
                 protocolUser.WordStudyData[id] = new ProtocolUserWordStudyData
                 {

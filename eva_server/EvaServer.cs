@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Threading;
 using SimpleHttpServer;
 using SimpleHttpServer.Models;
@@ -48,10 +49,25 @@ namespace eva_server
         {
             Console.WriteLine("Run Server");
 
+            UpdateWordDataCount();
+
             var httpServer = new HttpServer(80, Get);
             var thread = new Thread(httpServer.Listen);
             thread.Start();
         }
+
+        #region Static Data
+
+        public const string WordDataPath = "Data/Static/WordData.txt";
+
+        public static int WordDataCount { get; private set; }
+
+        private static void UpdateWordDataCount()
+        {
+            WordDataCount = File.ReadLines(WordDataPath).Count();
+        }
+
+        #endregion
 
         #region Server Data
 
