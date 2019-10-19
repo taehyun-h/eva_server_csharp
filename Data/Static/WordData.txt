@@ -442,7 +442,7 @@ commutative : 가환성의 (제시된 수의 순서에 상관없이 결과가 �
 destine for : <어떤 목적, 용도로> 예정해 두다
 fork : 나뉘다
 reside : (특정한 곳에) 거주하다
-milieuI : (사회적) 환경
+milieu : (사회적) 환경
 discoverable : 쉽게 검색할 수 있는
 analogous : 유사한
 resilient : 회복력 있는
@@ -486,7 +486,7 @@ accompany : (일, 현상 등이) 동반되다
 criterion : (판단이나 결정을 위한) 기준
 pledge : (정식으로) 약속[맹세]하다
 oath : 맹세
-nature : 종류
+nature : 종류 : 성격
 mutual : (둘 이상 사람들) 공통의
 descending
 ascending
@@ -683,3 +683,98 @@ steep : 가파른
 colocate : 같은 장소에 배치하다
 assert : (사실임을 강하게) 주장하다
 judicious : 신중한
+numerator : 분자
+detail : 상세히 열거하다
+deviate : 벗어나다
+make-up : 추가 시험
+diameter : 지름
+inference : 추론
+quadratic : (수학)이차의
+ridge : 산등성이
+percentile : 백분율
+viability : 실행 가능성
+toil : (장시간) 힘들게[고생스럽게] 일하다 : 노역
+grungy : 지저분한
+saturation : 포화 (상태)
+bloat : (특히 보기 싫게) 부풀다
+miscellaneous : 여러 가지 종류의, 이것저것 다양한
+alumni : 졸업생들
+spiral : 급등하다
+bankruptcy : 파산
+mild : 포근한
+registration paper : 등기 용지
+Securities and Exchange Commission : 증권 거래 위원회
+exquisite : 정교한
+stratosphere : 성층권
+preposterous : 터무니 없는
+glaring : 눈부신
+audacity : 뻔뻔함
+profess : (특히 사실이 아닌 것을 사실이라고) 주장하다
+galactic : 은하계의
+disclose : (특히 비밀이던 것을) 폭로하다
+bevy : (같은 종류의) 무리
+eccentric : 괴짜인
+magnetic : 사람을 강하게 끄는
+fraud : 가짜
+pull the wool over one's eyes : ~의 눈을 속이다
+oust : (일자리·권좌에서) 몰아내다
+extent : (크기·중요성·심각성 등의) 정도[규모]
+corrupt : 부패하게 만들다
+lay out : 펼치다 : 설계하다
+route : (한 곳에서 다른 곳으로 가기 위해 따라가는) 길[경로/루트]
+encounter : (특히 반갑지 않은 일에) 맞닥뜨리다 : (새롭거나 뜻밖의 대상과) 접하다[마주치다]
+afterward : 나중에
+straightforward : 간단한
+at the very least : 최소한
+fictitious : 지어낸
+halt : 중단시키다
+evermore : 항상
+bulletproof : 방탄이 되는
+malfunction : 고장
+brevity : 간결성
+sentinel : 보초병
+stand out : 눈에 띄다
+reach out : 연락을 취하다
+etc : et cetera
+vet : (내용, 품질 등을) 점검하다
+rubric : (책·시험지 등에 제시된) 지시문
+last but not least : 마지막으로, 그렇지만 앞에 말씀드린 분[것]들과 마찬가지로 중요한
+bring together : ~을 묶다
+seldom : 좀처럼[거의] ~ 않는
+persuade : 설득하다
+break down : 고장나다
+tell off : 야단치다
+breed : 사육하다 : 새끼를 낳다
+curse : 저주
+denominator : 분모
+contour : 등고선
+agglomerate : 뭉치다, 한 덩어리가 되다
+per se : 그 자체로는
+pharmacy : 약국
+discretion : (자유) 재량(권) : 신중함
+disrepute : 오명, 악평
+effective : 시행되는
+rescind : (법률, 계약, 결정 등을) 폐지[해지/철회]하다
+duck : (머리나 몸을) 휙 수그리다
+dwell on : ~을 깊이 생각하다 : ~을 자세하게 쓰다
+elaborate : 정교한 : 더 자세히 말하다
+precipitously : 가파르게
+imprecise : 애매한
+walk somebody through something : (어떤 것을 배우거나 익힐 수 있도록 단계별로 차례차례) ~에게 ~을 보여 주다
+dare : ~할 엄두를 내다
+adjacency : 인접
+interpret : (의미를) 설명[해석]하다
+respective : 각각의
+scarcity : 부족
+vender : vendor : (특정한 제품) 판매 회사
+duality : 이중성
+conjecture : 추측하다
+perturb : (심리적으로) 동요하게 하다
+cope : 대응하다
+precious : 소중한
+lax : (일, 규칙, 기준 등에 대해) 느슨한
+sink in : 충분히 이해되다
+pushback : (계획, 변화 등에 대한) 반발
+contentious : 논쟁을 초래할(듯한)
+vowel : 모음
+exclude : 제외[배제]하다 : (가입, 출입을) 거부[차단]하다
