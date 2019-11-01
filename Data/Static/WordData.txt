@@ -394,8 +394,8 @@ prerequisite
 familiarity : 익숙함
 plagiarism : 표절
 ethics : 윤리
-fast-paced
-commitment : (돈, 시간, 인력의) 투입
+fast-paced : 빨리 진행되는
+commitment : (돈, 시간, 인력의) 투입 : 책무
 grant : (정부나 단체에서 주는) 보조금 : (특히 공식적, 법적으로) 승인하다
 acknowledgements : (특히 책 서두에 붙이는) 감사의 글
 adapted from : ~에서 개조된
@@ -505,7 +505,7 @@ undergo : (특히 변화·안 좋은 일 등을) 겪다[받다]
 courtesy : 공손함
 canonical : (수학에서) 표준[기준]이 되는
 look for something : ~을 바라다
-come across : ~을 우연히 발견하다
+come across : ~을 우연히 발견하다 : (특정한) 인상을 주다
 capable of : ~을 할 수 있는
 thorough : 철저한
 CC : carbon copy(참조)
@@ -519,7 +519,7 @@ keep in mind : 명심해
 purely
 resolve : (문제 등을) 해결하다
 overrule: 기각하다
-dictate : ~에 영향을 주다
+dictate : ~에 영향을 주다 : 받아쓰게 하다
 VC : Video Call
 escalate : 확대시키다
 sit around : 빈둥거리며 세월을 보내다
@@ -778,3 +778,161 @@ pushback : (계획, 변화 등에 대한) 반발
 contentious : 논쟁을 초래할(듯한)
 vowel : 모음
 exclude : 제외[배제]하다 : (가입, 출입을) 거부[차단]하다
+fraught : 걱정하는
+obscure : 모호하게 하다
+morass : 늪
+arbitration : 중재
+intervention : 간섭
+realm : (활동, 관심, 지식 등의) 영역
+interfere : 간섭하다
+pitfall : (눈에 잘 안 띄는) 위험[곤란]
+diametric : 정반대의
+courage : 용기
+debate : (특히 격식을 갖춰) 논의하다
+overbear : 압도하다
+pretentious : 허세 부리는, 가식적인
+share : 주식 : 몫
+monetization : 화폐 가치화
+shareholder : 주주
+headwind : 역풍
+plague : 전염병 : 괴롭히다
+plunge : 급락하다
+earnings : (기업의) 수익
+consensus : 합의
+pointless : 무의미한
+in person : 직접
+etiquette : 에티켓
+breach : 위반 : 위반하다
+critique : 비평하다
+diligent : 성실한
+precede : ~ 앞에 가다
+decompose : 분해하다
+caveat : (특정 절차를 따르라는) 통고[경고]
+sanity : 온전한 정신(상태)
+sane : 제정신인
+intimate : 친밀한
+intimately : 상세하게
+err on the side of something : (안전 등을 기하기 위해) 지나치다 싶을 정도로 ~하다
+err : 실수를 범하다
+somehow : 어떻게든, 왠지
+outright : 완전한, 명백한
+discreet : 신중한
+commentary : 비판, 논의 : 실황 방송
+worthwhile : ~할 가치가 있는
+imperative : 반드시 해야 하는
+as though : 마치 ~인 것처럼
+locate : ~의 정확한 위치를 찾아내다
+faint : 희미한
+quarter over quarter : 분기별
+honor : 우등
+extracurricular : 정식 학과 이외의
+leadership : 대표직
+nationwide : 전국적인
+recognition : 인식 : (공로 등에 대한) 인정, 표창
+accomplish : 완수하다
+metrics : 메트릭스(업무 수행 결과를 보여주는 계량적 분석)
+streamline : 유선형으로 하다
+chronological : 시간 순서대로 된
+from time to time : 가끔
+stump : (너무 어려운 질문문제로) 당황하게 하다
+vast : (범위, 크키, 양 등이) 어마어마한
+curb : (특히 좋지 못한 것을) 제한하다
+aesthetician : 미용사 : esthetician
+leap : 뛰어오르다
+surface : 나타나다, 표면화되다
+formulate : 만들어 내다
+spot : 발견하다, 알아채다
+snag : (작은 예상 밖의) 문제
+perceptive : 통찰력 있는
+imitate : 모방하다
+kind of : 약간, 어느 정도 : kinda
+immense : 엄청난
+cumulative : 누적되는
+grade point average : 평균 평점
+anticipate : 예상하다
+post-secondary education : 중등 과정 후의 교육
+the bulk of : ~의 대부분
+grad : 졸업생
+amass : 모으다
+get a sense of : 엿보다
+trial : (특히 최종 결정을 내리기 전의) 시험[실험]
+opt in : ~에 참여하기로 하다
+reflex : 반사 운동
+breakneck : 위험할 정도로 빠른
+faction : 파벌
+unleash : 촉발시키다
+sci-fi : 공상 과학 소설의
+gratify : 기쁘게 하다 : (욕구 등을) 만족시키다
+willpower : 의지력
+barely : 간신히
+upset : 예상 밖의 승리
+hail : 환호하며 맞이하다 : 축하하다
+flashbulb : 플래시 전구
+project : 예상하다
+make-or-break : 운명을 좌우하는
+collapse : 무너지다
+arms race : 군비 확장 경쟁
+decease : 사망
+parental leave : 육아 휴가
+statutory : 법으로 정한
+evangelize : 전도하다
+foster : 발전시키다
+code of conduct : 행동 수칙
+malicious : 악의적인
+refuse : 거절하다
+letterhead : <편지지의 윗부분에 인쇄된 개인, 회사, 단체의 이름과 주소>
+authorize : 권한을 부여하다
+refrain : 삼가다
+intrigue : 강한 호기심을 불러일으키다
+apart from : ~외에는
+salutation : 인사말
+descriptive : 기술적인 (실제 사용 현황을 보여주는)
+applicant : 지원자
+relay : 전달하다
+decline : (정중히) 거절하다
+stakeholder : 이해 당사자, 주주
+concrete : 구체적인, 사실에 의거한
+convey : 전달하다
+auditory : 청각의
+perceive : ~을 ~로 여기다
+scold : (특히 아이를) 야단치다
+necessarily not : 반드시 ~은 아닌
+awful : 끔찍한 : (특히 양적으로 많음을 강조하는 의미로) 엄청
+bond : 유대
+instantaneous : 즉각적인
+in and of itself : 그것 자체는
+proponent : (어떤 사상, 행동 방침의) 지지자
+censor : 검열하다
+loath : ~하기를 꺼리는
+bribe : 뇌물
+kickback : 뇌물
+firsthand : 직접 : 직접 얻은
+land : 땅 : (땅표면에) 내려앉다
+infusion : (어떤 것을 더 강하게, 성공적이 되게 하기 위한) 투입
+subsidize : 보조금을 주다
+shame : 창피 : 아쉬운 일
+ethnic : 민족의
+malformed : 기형인
+substance : 핵심
+idiomatic : (언어 표현이 모국어 사용자가 쓰는 것같이) 자연스러운
+brush up : ~의 공부를 다시하다
+underspecified : 정해진 질보다 못한
+deliberate : 고의의 : 신중한, 신중히 생각하다
+fellow : 동료의
+compelling : 눈을 뗄 수 없는 : 설득력 있는
+thoughtful : 친절한 : 사려 깊은
+consummate : 완성된, 완전한
+dichotomy : 이분
+rake : 갈퀴질을 하다
+versus : ~대 : ~에 비해
+stigma : 오명
+chatter : 수다를 떨다
+complement : 보완하다
+compatibility : 호환성
+delve : (무엇을 찾으려고 가방 등을) 뒤지다
+neutral : 중립적인
+embrace : 포옹하다 : 수용하다
+polyglot : 여러 언어를 사용하는
+one-hit wonder : 히트곡 하나뿐인 가수
+rightly : 당연히 : 제대로
+laud : 칭찬하다
